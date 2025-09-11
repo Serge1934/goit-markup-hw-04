@@ -461,8 +461,13 @@ p {
   margin: 0 0 16px;
   font-weight: 500;
   color: #ffffff;
+  line-height: 1.5;
+  letter-spacing: 0.02em;
 }
 .footer_socials .socials_link:hover,
 .footer_socials .socials_link:focus {
   background-color: #31d0aa;
+}
+.footer_socials .socials {
+  gap: 16px;
 }
